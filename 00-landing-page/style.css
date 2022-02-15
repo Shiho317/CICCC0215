@@ -8,6 +8,74 @@
     border-radius: 10px;
 }
 
+#section{
+    height: 60vh;
+}
+
+.intro{
+    width: 50%;
+}
+
+.btn-primary{
+    width: 30%;
+}
+
+.sub-sec{
+    height: 15vh;
+    width: 80%;
+}
+
+.details{
+    width: 80%;
+}
+
+.email-submit{
+    width: 40%;
+}
+
+.container-wrap{
+    height: 60vh;
+}
+
+.container img{
+    width: 30rem;
+}
+
+.sleep{
+    width: 30rem;
+}
+
+.btn-light{
+    width: 10rem;
+}
+
+.accordion{
+    width: 90%;
+}
+
+.card img{
+    width: 8rem;
+    border-radius: 50%;
+}
+
+.loc-sec{
+    height: 30vh;
+    width: 80%;
+}
+
+#map{
+    width: 40%;
+    height: 15vh;
+}
+
+.info{
+    width: 50%;
+}
+
+footer{
+    height: 12vh;
+}
+
 @media (min-width: 768px){
     .news-input{
         width: 50%;
